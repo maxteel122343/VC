@@ -1,0 +1,8 @@
+{
+  "name": "Remix modelo ofeicial 24 VisionCraft UI Editor",
+  "description": "An AI-powered interface editor where you can upload screenshots, let AI detect and decompose elements, and freely rearrange or redesign your UI with intelligent suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
